@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijx&label=Profile%20views&color=0e75b6&style=flat" alt="bijx" /> </p>
 
-- 🔭 I’m currently working on [Moodsic](https://github.com/bijx/project-emote)
+- 🔭 I’m currently working on [Zeus Mission Generator 2](https://github.com/bijx/Zeus-Mission-Generator-Docs)
 
 - ⭐ Check out my personal projects **http://hyperspc.com/**
 
