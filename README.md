@@ -1,4 +1,4 @@
-<h1 align="center">I'm Bijan ⚡ come learn about me!</h1>
+<h1 align="center">I'm bijx ⚡ come learn about me!</h1>
 <h3 align="center">A Software Engineer and Visual Effects Artist from Toronto, Canada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijx&label=Profile%20views&color=0e75b6&style=flat" alt="bijx" /> </p>
