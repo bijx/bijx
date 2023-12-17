@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijx&label=Profile%20views&color=0e75b6&style=flat" alt="bijx" /> </p>
 
+- 🔨 My most recent project is the [Arma 3 Camo Mod Maker](https://github.com/bijx/ARMA-3-Camo-Mod-Maker)
 - 🔭 I’m currently working on [YouTube Paraphraser](https://github.com/bijx/YouTube-Paraphraser-WebApp)
-
 - ⭐ Check out my personal projects **http://hyperspc.com/**
 
 
