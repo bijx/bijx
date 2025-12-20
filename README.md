@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijx&label=Profile%20views&color=0e75b6&style=flat" alt="bijx" /> </p>
 
+- Contributing to [OpenFront](https://github.com/openfrontio/OpenFrontIO) and [Enhanced Zeus Modules](https://github.com/expung3d/Enhanced-Zeus-Modules) open-source projects
 - 🔨 My most recent open-source project is the [Arma 3 Camo Mod Maker](https://github.com/bijx/ARMA-3-Camo-Mod-Maker)
 
 <h3 align="left">Languages and Tools:</h3>
